@@ -26,7 +26,7 @@ A simple and modern weather application built with **React** and **Vite**, fetch
 
 ## Demo
 
-**Live Demo:** [https://negar73.github.io/weather-app-react](#)  
+**Live Demo:** [https://negar73.github.io/weather-app-react/](#)  
 *(You can update this link after deployment)*
 
 ---
